@@ -1,0 +1,43 @@
+/* Default light mode styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+/* Dark mode styles */
+.dark-mode {
+    background-color: #121212;
+    color: white;
+    min-height: 100vh;
+    /* Ensures the full page is covered */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Adjusts input fields & buttons for dark mode */
+.dark-mode .form-control {
+    background-color: #333;
+    color: white;
+    border: 1px solid #555;
+}
+
+.dark-mode .form-control::placeholder {
+    color: #bbb;
+}
+
+.dark-mode .btn-outline-success {
+    color: white;
+    border-color: white;
+}
+
+.dark-mode .btn-outline-success:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Styling for content */
+.content {
+    text-align: center;
+    padding: 20px;
+}

@@ -3,7 +3,8 @@
 
 **TextUtils** is a React-based web app that lets users analyze and manipulate text efficiently. It's fast, clean, and built with simplicity in mind.
 
-![TextUtils Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/ebc90632-e602-4be0-855f-141398a989ac)
+
 
 ---
 
@@ -24,7 +25,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/TextUtils.git
+git clone https://github.com/KartikChouhan03/TextUtils.git
 cd TextUtils
 ```
 
@@ -38,13 +39,6 @@ npm install
 npm start
 ```
 Your app will be live at `http://localhost:3000`
-
----
-
-## 📸 UI Preview
-
-![App Screenshot](screenshot.png)  
-> You can replace this with an actual screenshot of your app.
 
 ---
 
@@ -66,9 +60,9 @@ Feel free to use, modify, and distribute!
 
 ## ✨ Author
 
-**KC**  
+**Kartik**  
 Frontend Developer | React Enthusiast  
-🔗 [GitHub](https://github.com/your-username)
+🔗 [GitHub](https://github.com/KartikChouhan03)
 
 ---
 
